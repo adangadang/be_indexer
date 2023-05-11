@@ -1,4 +1,4 @@
-module github.com/echoface/be_indexer
+module github.com/adangadang/be_indexer
 
 go 1.18
 
